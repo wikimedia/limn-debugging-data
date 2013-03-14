@@ -1,0 +1,17 @@
+{
+    "id"       : "reportcard",
+    "headline" : "Analytics Debugging",
+    "subhead"  : "assorted graphs",
+    "tabs": [
+        {
+            "name": "Stefan",
+            "graph_ids": [
+            ]
+        },
+        {
+            "name": "Andrew",
+            "graph_ids": [
+            ]
+        }
+    ]
+}
