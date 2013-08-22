@@ -4,7 +4,7 @@
     "name": "HTTPS Statistics",
     "format": "json",
     "type": "series",
-    "url": "/data/datafiles/debug/https_percent_failure_structured.json",
+    "url": "/data/datafiles/debugging/https_percent_failure_structured.json",
     "shortName": "",
     "desc": "",
     "notes": "",
