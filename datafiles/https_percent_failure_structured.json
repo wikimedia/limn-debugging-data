@@ -1,0 +1,538 @@
+[
+    {
+        "id": "ARE",
+        "name": "ae",
+        "https_success": "222",
+        "https_fail": "6",
+        "https_fail_rate": "2.63",
+        "margin_of_error": "2.08"
+    },
+    {
+        "id": "ARG",
+        "name": "ar",
+        "https_success": "828",
+        "https_fail": "42",
+        "https_fail_rate": "4.83",
+        "margin_of_error": "1.42"
+    },
+    {
+        "id": "AUT",
+        "name": "at",
+        "https_success": "465",
+        "https_fail": "8",
+        "https_fail_rate": "1.69",
+        "margin_of_error": "1.16"
+    },
+    {
+        "id": "AUS",
+        "name": "au",
+        "https_success": "1637",
+        "https_fail": "42",
+        "https_fail_rate": "2.50",
+        "margin_of_error": "0.75"
+    },
+    {
+        "id": "BEL",
+        "name": "be",
+        "https_success": "590",
+        "https_fail": "7",
+        "https_fail_rate": "1.17",
+        "margin_of_error": "0.86"
+    },
+    {
+        "id": "BGR",
+        "name": "bg",
+        "https_success": "209",
+        "https_fail": "2",
+        "https_fail_rate": "0.95",
+        "margin_of_error": "1.31"
+    },
+    {
+        "id": "BRA",
+        "name": "br",
+        "https_success": "2951",
+        "https_fail": "133",
+        "https_fail_rate": "4.31",
+        "margin_of_error": "0.72"
+    },
+    {
+        "id": "BLR",
+        "name": "by",
+        "https_success": "207",
+        "https_fail": "7",
+        "https_fail_rate": "3.27",
+        "margin_of_error": "2.38"
+    },
+    {
+        "id": "CAN",
+        "name": "ca",
+        "https_success": "2800",
+        "https_fail": "26",
+        "https_fail_rate": "0.92",
+        "margin_of_error": "0.35"
+    },
+    {
+        "id": "CHE",
+        "name": "ch",
+        "https_success": "516",
+        "https_fail": "5",
+        "https_fail_rate": "0.96",
+        "margin_of_error": "0.84"
+    },
+    {
+        "id": "CHL",
+        "name": "cl",
+        "https_success": "571",
+        "https_fail": "22",
+        "https_fail_rate": "3.71",
+        "margin_of_error": "1.52"
+    },
+    {
+        "id": "CHN",
+        "name": "cn",
+        "https_success": "78",
+        "https_fail": "733",
+        "https_fail_rate": "90.38",
+        "margin_of_error": "2.03"
+    },
+    {
+        "id": "COL",
+        "name": "co",
+        "https_success": "969",
+        "https_fail": "33",
+        "https_fail_rate": "3.29",
+        "margin_of_error": "1.11"
+    },
+    {
+        "id": "CRI",
+        "name": "cr",
+        "https_success": "99",
+        "https_fail": "2",
+        "https_fail_rate": "1.98",
+        "margin_of_error": "2.72"
+    },
+    {
+        "id": "CZE",
+        "name": "cz",
+        "https_success": "462",
+        "https_fail": "7",
+        "https_fail_rate": "1.49",
+        "margin_of_error": "1.10"
+    },
+    {
+        "id": "DEU",
+        "name": "de",
+        "https_success": "4450",
+        "https_fail": "71",
+        "https_fail_rate": "1.57",
+        "margin_of_error": "0.36"
+    },
+    {
+        "id": "DNK",
+        "name": "dk",
+        "https_success": "339",
+        "https_fail": "3",
+        "https_fail_rate": "0.88",
+        "margin_of_error": "0.99"
+    },
+    {
+        "id": "DOM",
+        "name": "do",
+        "https_success": "96",
+        "https_fail": "5",
+        "https_fail_rate": "4.95",
+        "margin_of_error": "4.23"
+    },
+    {
+        "id": "DZA",
+        "name": "dz",
+        "https_success": "99",
+        "https_fail": "13",
+        "https_fail_rate": "11.61",
+        "margin_of_error": "5.93"
+    },
+    {
+        "id": "ECU",
+        "name": "ec",
+        "https_success": "197",
+        "https_fail": "7",
+        "https_fail_rate": "3.43",
+        "margin_of_error": "2.50"
+    },
+    {
+        "id": "EGY",
+        "name": "eg",
+        "https_success": "214",
+        "https_fail": "26",
+        "https_fail_rate": "10.83",
+        "margin_of_error": "3.93"
+    },
+    {
+        "id": "ESP",
+        "name": "es",
+        "https_success": "1071",
+        "https_fail": "7",
+        "https_fail_rate": "0.65",
+        "margin_of_error": "0.48"
+    },
+    {
+        "id": "eu",
+        "name": "eu",
+        "https_success": "98",
+        "https_fail": "3",
+        "https_fail_rate": "2.97",
+        "margin_of_error": "3.31"
+    },
+    {
+        "id": "FIN",
+        "name": "fi",
+        "https_success": "454",
+        "https_fail": "0",
+        "https_fail_rate": "0.00",
+        "margin_of_error": "0.00"
+    },
+    {
+        "id": "FRA",
+        "name": "fr",
+        "https_success": "2573",
+        "https_fail": "42",
+        "https_fail_rate": "1.61",
+        "margin_of_error": "0.48"
+    },
+    {
+        "id": "GBR",
+        "name": "gb",
+        "https_success": "4859",
+        "https_fail": "51",
+        "https_fail_rate": "1.04",
+        "margin_of_error": "0.28"
+    },
+    {
+        "id": "GEO",
+        "name": "ge",
+        "https_success": "95",
+        "https_fail": "6",
+        "https_fail_rate": "5.94",
+        "margin_of_error": "4.61"
+    },
+    {
+        "id": "GRC",
+        "name": "gr",
+        "https_success": "323",
+        "https_fail": "6",
+        "https_fail_rate": "1.82",
+        "margin_of_error": "1.45"
+    },
+    {
+        "id": "GTM",
+        "name": "gt",
+        "https_success": "120",
+        "https_fail": "12",
+        "https_fail_rate": "9.09",
+        "margin_of_error": "4.90"
+    },
+    {
+        "id": "HKG",
+        "name": "hk",
+        "https_success": "643",
+        "https_fail": "17",
+        "https_fail_rate": "2.58",
+        "margin_of_error": "1.21"
+    },
+    {
+        "id": "HRV",
+        "name": "hr",
+        "https_success": "145",
+        "https_fail": "2",
+        "https_fail_rate": "1.36",
+        "margin_of_error": "1.87"
+    },
+    {
+        "id": "HUN",
+        "name": "hu",
+        "https_success": "260",
+        "https_fail": "1",
+        "https_fail_rate": "0.38",
+        "margin_of_error": "0.75"
+    },
+    {
+        "id": "IDN",
+        "name": "id",
+        "https_success": "453",
+        "https_fail": "65",
+        "https_fail_rate": "12.55",
+        "margin_of_error": "2.85"
+    },
+    {
+        "id": "IRL",
+        "name": "ie",
+        "https_success": "328",
+        "https_fail": "4",
+        "https_fail_rate": "1.20",
+        "margin_of_error": "1.17"
+    },
+    {
+        "id": "ISR",
+        "name": "il",
+        "https_success": "414",
+        "https_fail": "5",
+        "https_fail_rate": "1.19",
+        "margin_of_error": "1.04"
+    },
+    {
+        "id": "IND",
+        "name": "in",
+        "https_success": "2384",
+        "https_fail": "207",
+        "https_fail_rate": "7.99",
+        "margin_of_error": "1.04"
+    },
+    {
+        "id": "IRN",
+        "name": "ir",
+        "https_success": "185",
+        "https_fail": "74",
+        "https_fail_rate": "28.57",
+        "margin_of_error": "5.50"
+    },
+    {
+        "id": "ITA",
+        "name": "it",
+        "https_success": "2171",
+        "https_fail": "35",
+        "https_fail_rate": "1.59",
+        "margin_of_error": "0.52"
+    },
+    {
+        "id": "JPN",
+        "name": "jp",
+        "https_success": "4630",
+        "https_fail": "77",
+        "https_fail_rate": "1.64",
+        "margin_of_error": "0.36"
+    },
+    {
+        "id": "KOR",
+        "name": "kr",
+        "https_success": "256",
+        "https_fail": "12",
+        "https_fail_rate": "4.48",
+        "margin_of_error": "2.48"
+    },
+    {
+        "id": "KAZ",
+        "name": "kz",
+        "https_success": "164",
+        "https_fail": "11",
+        "https_fail_rate": "6.29",
+        "margin_of_error": "3.60"
+    },
+    {
+        "id": "MEX",
+        "name": "mx",
+        "https_success": "1782",
+        "https_fail": "58",
+        "https_fail_rate": "3.15",
+        "margin_of_error": "0.80"
+    },
+    {
+        "id": "MYS",
+        "name": "my",
+        "https_success": "458",
+        "https_fail": "37",
+        "https_fail_rate": "7.47",
+        "margin_of_error": "2.32"
+    },
+    {
+        "id": "NLD",
+        "name": "nl",
+        "https_success": "878",
+        "https_fail": "7",
+        "https_fail_rate": "0.79",
+        "margin_of_error": "0.58"
+    },
+    {
+        "id": "NOR",
+        "name": "no",
+        "https_success": "354",
+        "https_fail": "2",
+        "https_fail_rate": "0.56",
+        "margin_of_error": "0.78"
+    },
+    {
+        "id": "NZL",
+        "name": "nz",
+        "https_success": "353",
+        "https_fail": "7",
+        "https_fail_rate": "1.94",
+        "margin_of_error": "1.43"
+    },
+    {
+        "id": "PER",
+        "name": "pe",
+        "https_success": "501",
+        "https_fail": "31",
+        "https_fail_rate": "5.83",
+        "margin_of_error": "1.99"
+    },
+    {
+        "id": "PHL",
+        "name": "ph",
+        "https_success": "746",
+        "https_fail": "112",
+        "https_fail_rate": "13.05",
+        "margin_of_error": "2.25"
+    },
+    {
+        "id": "PAK",
+        "name": "pk",
+        "https_success": "273",
+        "https_fail": "32",
+        "https_fail_rate": "10.49",
+        "margin_of_error": "3.44"
+    },
+    {
+        "id": "POL",
+        "name": "pl",
+        "https_success": "1168",
+        "https_fail": "13",
+        "https_fail_rate": "1.10",
+        "margin_of_error": "0.60"
+    },
+    {
+        "id": "PRT",
+        "name": "pt",
+        "https_success": "338",
+        "https_fail": "4",
+        "https_fail_rate": "1.17",
+        "margin_of_error": "1.14"
+    },
+    {
+        "id": "ROU",
+        "name": "ro",
+        "https_success": "313",
+        "https_fail": "3",
+        "https_fail_rate": "0.95",
+        "margin_of_error": "1.07"
+    },
+    {
+        "id": "SRB",
+        "name": "rs",
+        "https_success": "325",
+        "https_fail": "11",
+        "https_fail_rate": "3.27",
+        "margin_of_error": "1.90"
+    },
+    {
+        "id": "RUS",
+        "name": "ru",
+        "https_success": "3500",
+        "https_fail": "94",
+        "https_fail_rate": "2.62",
+        "margin_of_error": "0.52"
+    },
+    {
+        "id": "SAU",
+        "name": "sa",
+        "https_success": "264",
+        "https_fail": "24",
+        "https_fail_rate": "8.33",
+        "margin_of_error": "3.19"
+    },
+    {
+        "id": "SWE",
+        "name": "se",
+        "https_success": "785",
+        "https_fail": "2",
+        "https_fail_rate": "0.25",
+        "margin_of_error": "0.35"
+    },
+    {
+        "id": "SGP",
+        "name": "sg",
+        "https_success": "341",
+        "https_fail": "7",
+        "https_fail_rate": "2.01",
+        "margin_of_error": "1.48"
+    },
+    {
+        "id": "SVK",
+        "name": "sk",
+        "https_success": "166",
+        "https_fail": "1",
+        "https_fail_rate": "0.60",
+        "margin_of_error": "1.17"
+    },
+    {
+        "id": "THA",
+        "name": "th",
+        "https_success": "490",
+        "https_fail": "26",
+        "https_fail_rate": "5.04",
+        "margin_of_error": "1.89"
+    },
+    {
+        "id": "TUR",
+        "name": "tr",
+        "https_success": "914",
+        "https_fail": "14",
+        "https_fail_rate": "1.51",
+        "margin_of_error": "0.78"
+    },
+    {
+        "id": "TWN",
+        "name": "tw",
+        "https_success": "1269",
+        "https_fail": "21",
+        "https_fail_rate": "1.63",
+        "margin_of_error": "0.69"
+    },
+    {
+        "id": "UKR",
+        "name": "ua",
+        "https_success": "991",
+        "https_fail": "17",
+        "https_fail_rate": "1.69",
+        "margin_of_error": "0.79"
+    },
+    {
+        "id": "USA",
+        "name": "us",
+        "https_success": "18308",
+        "https_fail": "294",
+        "https_fail_rate": "1.58",
+        "margin_of_error": "0.18"
+    },
+    {
+        "id": "URY",
+        "name": "uy",
+        "https_success": "96",
+        "https_fail": "4",
+        "https_fail_rate": "4.00",
+        "margin_of_error": "3.84"
+    },
+    {
+        "id": "VEN",
+        "name": "ve",
+        "https_success": "262",
+        "https_fail": "14",
+        "https_fail_rate": "5.07",
+        "margin_of_error": "2.59"
+    },
+    {
+        "id": "VNM",
+        "name": "vn",
+        "https_success": "384",
+        "https_fail": "22",
+        "https_fail_rate": "5.42",
+        "margin_of_error": "2.20"
+    },
+    {
+        "id": "ZAF",
+        "name": "za",
+        "https_success": "199",
+        "https_fail": "15",
+        "https_fail_rate": "7.01",
+        "margin_of_error": "3.42"
+    }
+]

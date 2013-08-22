@@ -1,0 +1,85 @@
+{
+    "graph_version": "0.6.0",
+    
+    "id": "https_failure",
+    "slug": "https_failure",
+    
+    "name": "HTTPS Failure Rate",
+    "shortName": "",
+    "desc": "",
+    "notes": "",
+    
+    "root": {
+        "nodeType": "canvas",
+        "children": [
+            {
+                "nodeType": "geo-map",
+                "metric": {
+                    "sourceId": "map-world_countries"
+                },
+                "options": {
+                    "projection": "mercator",
+                    "featuresColor": "#EEEEEE",
+                    "backgroundColor": "white"
+                },
+                "children": [
+                    {
+                        "nodeType": "geo-feature",
+                        "metric": {
+                            "sourceId": "https_statistics",
+                            "yColumn": "https_fail_rate",
+                            "type": "float"
+                        },
+                        "options": {
+                            "label": "HTTPS Failure Rate",
+                            "scale": "log",
+                            "fill": [
+                                "#D4E7ED",
+                                "#0A3A4B"
+                            ]
+                        }
+                    },
+                    {
+                        "nodeType": "geo-feature",
+                        "metric": {
+                            "sourceId": "https_statistics",
+                            "yColumn": "https_success"
+                        },
+                        "options": {
+                            "label": "HTTPS Successes"
+                        }
+                    },
+                    {
+                        "nodeType": "geo-feature",
+                        "metric": {
+                            "sourceId": "https_statistics",
+                            "yColumn": "https_fail"
+                        },
+                        "options": {
+                            "label": "HTTPS Fails"
+                        }
+                    },
+                    {
+                        "nodeType": "geo-feature",
+                        "metric": {
+                            "sourceId": "https_statistics",
+                            "yColumn": "margin_of_error"
+                        },
+                        "options": {
+                            "label": "Margin Of Error"
+                        }
+                    },
+                    {
+                        "nodeType": "infobox"
+                    }
+                ]
+            }
+        ],
+        "width": "auto",
+        "minWidth": 750,
+        "height": 750,
+        "minHeight": 500,
+        "xPadding": 0,
+        "yPadding": 0.1
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "https_statistics",
+    "slug": "https_statistics",
+    "name": "HTTPS Statistics",
+    "format": "json",
+    "type": "series",
+    "url": "/data/datafiles/debug/https_percent_failure_structured.json",
+    "shortName": "",
+    "desc": "",
+    "notes": "",
+    "columns": [
+        {
+            "id": "id",
+            "label": "id",
+            "type": "string"
+        },
+        {
+            "id": "name",
+            "label": "Name",
+            "type": "string"
+        },
+        {
+            "id": "https_fail",
+            "label": "https fails",
+            "type": "Number"
+        },
+        {
+            "id": "https_success",
+            "label": "https success",
+            "type": "Number"
+        },
+        {
+            "id": "https_fail_rate",
+            "label": "https fail rate, percent",
+            "type": "Number"
+        },
+        {
+            "id": "margin_of_error",
+            "label": "margin of error",
+            "type": "Number"
+        }
+    ]
+}
