@@ -19,7 +19,7 @@
                 },
                 "options": {
                     "projection": "mercator",
-                    "featuresColor": "#EEEEEE",
+                    "featuresColor": "#999999",
                     "backgroundColor": "white"
                 },
                 "children": [
@@ -32,10 +32,10 @@
                         },
                         "options": {
                             "label": "HTTPS Failure Rate",
-                            "scale": "log",
+                            "scale": "linear",
                             "fill": [
-                                "#D4E7ED",
-                                "#0A3A4B"
+                                "#9FC5E7",
+                                "#CC0000"
                             ]
                         }
                     },
@@ -71,6 +71,9 @@
                     },
                     {
                         "nodeType": "infobox"
+                    },
+                    {
+                        "nodeType": "zoom-pan"
                     }
                 ]
             }
