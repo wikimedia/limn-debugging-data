@@ -4,13 +4,9 @@
     "subhead"  : "assorted graphs",
     "tabs": [
         {
-            "name": "Stefan",
+            "name": "Refinery",
             "graph_ids": [
-            ]
-        },
-        {
-            "name": "Andrew",
-            "graph_ids": [
+                "https://datasets.wikimedia.org/aggregate-datasets/refinery/webrequest-loss-by-source.tsv"
             ]
         }
     ]

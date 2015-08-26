@@ -1,0 +1,110 @@
+{
+    "id": "example_dasharray",
+    "slug": "example_dasharray",
+    "name": "Example of Dasharray",
+    "desc": "The line-node's stroke -> dasharray option can be used to create various types of dashes.  See the json definition here: [http://debugging.wmflabs.org/graphs/example_dasharray.json?pretty=1].",
+    "notes": "",
+    "root": {
+        "nodeType": "canvas",
+        "y": {"scaleType": "linear"},
+        "scaling": "linear",
+        "width": "auto",
+        "height": 500,
+        "children": [
+            {
+                "nodeType": "axis",
+                "enabled": true,
+                "options": {
+                    "dimension": "x",
+                    "orient": "bottom",
+                    "label": null
+                }
+            },
+            {
+                "nodeType": "axis",
+                "enabled": true,
+                "options": {
+                    "dimension": "y",
+                    "orient": "left",
+                    "label": "Example of Dasharray"
+                }
+            },
+            {
+                "nodeType": "grid",
+                "enabled": true,
+                "options": {
+                    "dimension": "x"
+                }
+            },
+            {
+                "nodeType": "grid",
+                "enabled": true,
+                "options": {
+                    "dimension": "y"
+                }
+            },
+            {
+                "nodeType": "zoom-brush"
+            },
+            {
+                "nodeType": "legend",
+                "enabled": true,
+                "options": {
+                    "dateFormat": "MMM YYYY",
+                    "valueFormat": ",.2s"
+                }
+            },
+            {
+                "nodeType": "line-group",
+                "options": {
+                    "palette": "wmf_projects",
+                    "dateFormat": "MMM YYYY",
+                    "valueFormat": ",.2s"
+                },
+                "children": [
+                    {
+                        "nodeType": "line",
+                        "metric": {
+                            "type": "int",
+                            "timespan": {
+                                "start": null,
+                                "end": null,
+                                "step": null
+                            },
+                            "source_id": "example",
+                            "source_col": 1
+                        },
+                        "options": {
+                            "dateFormat": "MMM YYYY",
+                            "valueFormat": ",.2s",
+                            "stroke": {
+                                "width": 1,
+                                "dashed": "5,6,7"
+                            }
+                        }
+                    },
+                    {
+                        "nodeType": "line",
+                        "metric": {
+                            "type": "int",
+                            "timespan": {
+                                "start": null,
+                                "end": null,
+                                "step": null
+                            },
+                            "source_id": "example",
+                            "source_col": 2
+                        },
+                        "options": {
+                            "dateFormat": "MMM YYYY",
+                            "valueFormat": ",.2s",
+                            "stroke": {
+                                "dashed": "15,5"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
